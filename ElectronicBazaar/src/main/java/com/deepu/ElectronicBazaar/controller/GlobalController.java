@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 
 import com.deepu.ElectronicBazaar.model.UserModel;
 import com.deepu.backend.dao.UserDAO;
-import com.deepu.backend.dto.Cart;
+
 import com.deepu.backend.dto.User;
 
 @ControllerAdvice
